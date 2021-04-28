@@ -1,0 +1,7 @@
+.app{
+    width: 50%;
+    border-style: double;
+    border-radius: 10px;
+    margin: auto; 
+    /* padding: 10px; */
+}
